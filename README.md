@@ -1,7 +1,13 @@
 # TTS-papers-reading
+This file is for paper readings and to find relative dataset.
 
 ## Datasets
-1. [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) : Open source Portuguese TTS dataset
+
+### Portuguese
+- Monotone
+  1. [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) : Open source Portuguese TTS dataset
+- Expressive, Emotional 
+  1. 
 
 
 ## Expressive Speech Synthesis:
